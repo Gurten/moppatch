@@ -6,8 +6,8 @@ retrieved from: 'http://www.uraldev.ru/articles/files/28/spin_tires_bin.zip'
 
 It should be run in the same directory as 'SpinTires.exe'.
 
-After running this script, a new .exe will be produced in the directory 
-named 'MoppCompiler.exe'. 
+After running this script, a new .exe named 'MoppCompiler.exe' will be placed
+in the directory.
 
 When run, 'MoppCompiler.exe' will create one file named 'mopp_0' in
 the executable directory. 
